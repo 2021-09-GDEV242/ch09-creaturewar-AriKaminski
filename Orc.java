@@ -1,8 +1,8 @@
 /**
  * Write a description of class Orc here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Ari Kaminski
+ * @version Nov 13 2021
  */
 public class Orc extends Creature
 {
